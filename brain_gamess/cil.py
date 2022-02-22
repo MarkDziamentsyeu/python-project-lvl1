@@ -1,7 +1,15 @@
-import prompt
+"""Импортируем промт для простоты написания кода."""
+import prompt  # импорт модуля
+
+"""Promt is some module"""
+
 
 def welcome_user():
-    name = prompt.string('May I have your name? ')
-    print("Hello, " + name)
+    """Это функция.
 
-#welcome_user()
+    Она спрашивает имя пользователя
+    после ввода имени пользоваетля,
+    она приветствует его.
+    """
+    name = prompt.string('May I have your name? ')
+    print('Hello, ' + name)
