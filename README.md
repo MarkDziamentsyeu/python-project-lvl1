@@ -5,4 +5,4 @@
 <a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
 
 ### Github Actions
-![example workflow](https://github.com/MarkDziamentsyeu/python-project-lvl1/actions/workflows/github-actions-demo/badge.svg)
+[![Actions Status](https://github.com/MarkDziamentsyeu/python-project-lvl1/tree/codertocat-path-1/.github/workflows/github-actions-demo/badge.svg)] 
