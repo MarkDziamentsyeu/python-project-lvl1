@@ -7,4 +7,3 @@
 ### Github Actions
 [![Actions Status](https://github.com/MarkDziamentsyeu/python-project-lvl1/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/MarkDziamentsyeu/python-project-lvl1/actions)
 
-https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg
